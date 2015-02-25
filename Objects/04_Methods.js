@@ -9,3 +9,5 @@ var person = {
     	return this.firstName + " " + this.lastName;
     }
 };
+
+alert(person.fullName());

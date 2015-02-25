@@ -9,3 +9,5 @@ var person = {
 
 // Так же допускается создание объекта без свойств:
 var empty = {};
+
+alert("person.name = " + person.name);

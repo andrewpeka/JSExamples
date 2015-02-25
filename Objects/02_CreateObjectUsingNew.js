@@ -3,3 +3,5 @@
 var person = new Object();
 person.name = "Tom";
 person.age = 20;
+
+alert(person.name + " " + person.age);

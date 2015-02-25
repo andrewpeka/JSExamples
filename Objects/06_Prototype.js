@@ -10,3 +10,4 @@ Cat.prototype.meow = function() {
 	return this.name + " Meow!!!";
 }
 
+alert(cheshire.meow() + gary.meow());
